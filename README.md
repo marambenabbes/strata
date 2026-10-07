@@ -115,8 +115,8 @@ The canonical list, with what each answer changes, is in [`ARCHITECTURE.md` §6.
 
 ## License
 
-Orvex AI owns the intellectual property. You may publish the work in a public repo on your own GitHub under Apache 2.0, with the notice "Copyright 2026 Orvex AI".
+Orvex AI owns the intellectual property of this work. It is published under the Apache License, Version 2.0.
 
 Copyright 2026 Orvex AI
 
-Licensed under the [Apache License, Version 2.0](LICENSE). This repository contains no secrets or credentials.
+Licensed under the [Apache License, Version 2.0](LICENSE). 
