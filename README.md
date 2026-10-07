@@ -119,4 +119,4 @@ Orvex AI owns the intellectual property of this work. It is published under the 
 
 Copyright 2026 Orvex AI
 
-Licensed under the [Apache License, Version 2.0](LICENSE). 
+Licensed under the [Apache License, Version 2.0](LICENSE).
